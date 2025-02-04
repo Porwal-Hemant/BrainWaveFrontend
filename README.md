@@ -45,7 +45,7 @@ This project uses computer vision techniques to detect Personal Protective Equip
 
 1. Clone the repository:
     ```sh
-    git clone /c:/jupyter/Infosys Intern Project/Detect-the-PPE-Kit-in-Automobile-Manufacturing-Project
+    https://github.com/Porwal-Hemant/BrainWaveFrontend/tree/master    -> clone this github repo and create a local environment. 
     ```
 2. Navigate to the project directory:
     ```sh
